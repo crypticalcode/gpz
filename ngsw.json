@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "timestamp": 1646692129715,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.1bb89e2a2f244c6a.js",
+        "/manifest.webmanifest",
+        "/polyfills.864e616dc6985f52.js",
+        "/runtime.7f9f428549f8b236.js",
+        "/styles.8ae1bacb22550c80.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/Minutengeschichte1.mp3",
+        "/assets/Minutengeschichte10.mp3",
+        "/assets/Minutengeschichte2.mp3",
+        "/assets/Minutengeschichte3.mp3",
+        "/assets/Minutengeschichte4.mp3",
+        "/assets/Minutengeschichte5.mp3",
+        "/assets/Minutengeschichte6.mp3",
+        "/assets/Minutengeschichte7.mp3",
+        "/assets/Minutengeschichte8.mp3",
+        "/assets/Minutengeschichte9.mp3",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/x6zxsc3b.bmp"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/Minutengeschichte1.mp3": "3036c49af148d47c6574558e5f62d83955b6dbab",
+    "/assets/Minutengeschichte10.mp3": "d5e46fe84fb6dd5f80debe228f8a5ccc85062e6e",
+    "/assets/Minutengeschichte2.mp3": "c4989acb98476035a90dac4c99d320ad4455abf4",
+    "/assets/Minutengeschichte3.mp3": "5e3f2b9c471327409ab1bddccaedb2827a4d249e",
+    "/assets/Minutengeschichte4.mp3": "7f99e1f56de14bdb4436bb176cfc98eddba6b29f",
+    "/assets/Minutengeschichte5.mp3": "86e74048742136b2bd8ca33916c682308e8e78e2",
+    "/assets/Minutengeschichte6.mp3": "003dfb998b5a7c66b3249ebed411fa09b67ae7a0",
+    "/assets/Minutengeschichte7.mp3": "5ffac24ce6ce5f022aa3eb5e7fc55f76e6a8f126",
+    "/assets/Minutengeschichte8.mp3": "e36d6de2f42a14f58d65018a8b1ec7b38fd8ac79",
+    "/assets/Minutengeschichte9.mp3": "ab6262f6b6ca708179217c160579f04761cd4365",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/x6zxsc3b.bmp": "72758b4366e2f321f62fef3c227e36606ce797b9",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "3d5a19e195b7fda3c7f51bed5d172d8062e6b121",
+    "/main.1bb89e2a2f244c6a.js": "15c22de3dc04d75801b83234e3a14960fc9ee4b1",
+    "/manifest.webmanifest": "8497c0a13c06150b132c74558406cf6e4abc7ec6",
+    "/polyfills.864e616dc6985f52.js": "8c97177dc8efbe946067ebd03e276c864d8efc76",
+    "/runtime.7f9f428549f8b236.js": "1498a060e839da83d2a8ab654543e751582c0172",
+    "/styles.8ae1bacb22550c80.css": "8adb63ad66fe932ddffe9016f121193881f0dcbc"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
